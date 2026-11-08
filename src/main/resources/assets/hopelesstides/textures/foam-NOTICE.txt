@@ -1,0 +1,1 @@
+RevaleFoam-mask.png: original AI-generated sea-foam coverage artwork created for this project, 18 October 2026. RevaleFoam.png packs white RGB and mask alpha at 512x512. RevaleFoam.DDS: DirectXTex BC3_UNORM, full ten-level mip chain. No stock photograph or game asset is included. Host foundation: Hopeless Water 0.6.3 by Hopeless; visual integration by Revale.

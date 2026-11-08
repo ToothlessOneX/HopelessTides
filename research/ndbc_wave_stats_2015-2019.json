@@ -1,0 +1,8 @@
+{"source":"NOAA NDBC historical standard meteorological data (stdmet), 2015-2019 hourly records, read 2026-11-02 with tools/buoy_stats.js","calm":"wind under 3 m/s at the buoy",
+"stations":{
+"46042":{"name":"Monterey, CA (exposed Pacific)","hours":40520,"hs50":2.0,"tp50":11.43,"calmHours":8056,"calmHs25":1.36,"calmHs50":1.73,"calmTp50":12.12},
+"46026":{"name":"San Francisco, CA (exposed Pacific)","hours":43417,"hs50":1.7,"tp50":11.43,"calmHours":10131,"calmHs25":1.13,"calmHs50":1.42,"calmTp50":12.12},
+"41025":{"name":"Diamond Shoals, NC (exposed Atlantic)","hours":37492,"hs50":1.35,"tp50":8.33,"calmHours":3782,"calmHs25":0.74,"calmHs50":0.93,"calmTp50":9.09},
+"44013":{"name":"Boston, MA (sheltered Atlantic)","hours":42006,"hs50":0.71,"tp50":7.69,"calmHours":6461,"calmHs25":0.37,"calmHs50":0.5,"calmTp50":8.33},
+"42040":{"name":"Luke Offshore, Gulf of Mexico","hours":37895,"hs50":0.82,"tp50":5.56,"calmHours":6450,"calmHs25":0.36,"calmHs50":0.48,"calmTp50":5.56},
+"45007":{"name":"South Lake Michigan (lake)","hours":16450,"hs50":0.69,"tp50":4.35,"wind50":6.5,"calmHours":1463,"calmHs25":0.3,"calmHs50":0.38,"calmTp50":4.17}}}

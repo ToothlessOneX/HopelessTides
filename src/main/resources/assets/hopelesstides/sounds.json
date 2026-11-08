@@ -1,0 +1,5 @@
+{
+  "water.ocean": { "category": "ambient", "subtitle": "hopelesstides.subtitle.ocean", "sounds": [ { "name": "hopelesstides:ocean", "stream": true } ] },
+  "water.shore": { "category": "ambient", "subtitle": "hopelesstides.subtitle.shore", "sounds": [ { "name": "hopelesstides:shore", "stream": true } ] },
+  "water.wade":  { "category": "player", "subtitle": "hopelesstides.subtitle.wade", "sounds": [ "hopelesstides:steps0", "hopelesstides:steps1", "hopelesstides:steps2", "hopelesstides:steps3" ] }
+}

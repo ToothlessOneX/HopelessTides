@@ -1,0 +1,21 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="All Rights Reserved"
+
+[[mods]]
+modId="hopelesstides"
+version="0.17.3"
+displayName="Hopeless Tides"
+authors="David Mulkey (Hopeless Engineering)"
+credits="Copyright (c) 2026 David Mulkey, Hopeless Engineering."
+description='''
+Physical waves. The water surface rises and falls in a swell that follows the weather (calm, rain, storm) and, in caves with no sky,
+a slow cycle of its own. Big waves on open water, ripples on ponds; waves grow and break as the water shallows. Boats ride and tilt,
+swimmers and items are lifted and carried, and surf runs up the beach.
+'''
+[[dependencies.hopelesstides]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.20.1,1.20.2)"
+    ordering="NONE"
+    side="BOTH"
